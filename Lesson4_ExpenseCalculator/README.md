@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Paul Lee)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In Lesson 4, I programmed half of the expense calculator by declaring variables, establishing calculations and displaying the data to the user.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
