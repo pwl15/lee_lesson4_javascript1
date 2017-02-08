@@ -17,6 +17,6 @@ LIS 2360:  Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about the getElementById() method which finds the values associated with whatever Id the program require.
+2. I learned about the toFixed() ensure a specified number of digits appear after the decimal place for the value.
+3. I learned about the parseFloat() method which alters a String to a Float.
