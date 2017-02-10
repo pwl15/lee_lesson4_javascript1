@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(February 10, 2017)
+February 10, 2017
 
 ### Student Name:  
-(Paul Lee)
+Paul Lee
 
 ### Project Description:
-(In Lesson 4, I programmed half of the expense calculator by declaring variables, establishing calculations and displaying the data to the user.)
+In Lesson 4, I programmed half of the expense calculator by declaring variables, establishing calculations and displaying the data to the user.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwl15.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. I learned about the getElementById() method which finds the values associated with whatever Id the program require.
